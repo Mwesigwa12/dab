@@ -1,0 +1,32 @@
+.tin{
+    float: centre;
+    color: green;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.run{
+    float: left;
+}
+.jump{
+    background-color: blanchedalmond;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 5px 5px 5px 5px rgb(148, 38, 158);
+    align-items: center;
+    color: rgb(38, 141, 81);
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+.container{
+    background-color: blueviolet;
+    box-shadow: 13px 13px 13px 13px goldenrod;
+}
+.pan{
+    text-align: center;
+    color: aliceblue;
+
+
+}
